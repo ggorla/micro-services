@@ -1,0 +1,6 @@
+com/mySpringBootApplication/demo/service/StudentService.class
+com/mySpringBootApplication/demo/dao/StudentDao.class
+com/mySpringBootApplication/demo/ThisSampleApplication.class
+com/mySpringBootApplication/demo/resource/StudentResource.class
+com/mySpringBootApplication/demo/dao/FakeStudentDaoimpl.class
+com/mySpringBootApplication/demo/model/student.class
